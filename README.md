@@ -1,4 +1,4 @@
-# NodeJs interface for smartcielo remote AC control API (MRCOOL)
+# NodeJs interface for smartcielo remote AC control API (Pioneer)
 
 by Nicholas Robinson
 
@@ -8,7 +8,7 @@ by Nicholas Robinson
 
 ## Overview
 
-This interace facilitates communication with AC equipment that is connected to the internet by smartcielo. This was specifically developed to facilitate automation of the MRCOOL DIY line of ACs.
+This interace facilitates communication with AC equipment that is connected to the internet by smartcielo. This was specifically developed to facilitate automation of the Pioneer DIY line of ACs.
 
 ## Installation
 
@@ -44,7 +44,6 @@ This interace facilitates communication with AC equipment that is connected to t
 
 ## References
     
-* https://www.mrcool.com/
 * https://www.smartcielo.com
 
 ## Notes
